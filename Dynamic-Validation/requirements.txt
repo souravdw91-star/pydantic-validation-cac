@@ -1,5 +1,0 @@
-I am learning pydantic and want to understnad the system with dynamic scenarios.
-suppose I have 2 source file emp & dept, i want to implement a data validation mechanism that would define the base model at the run time in pydantic and do the data validation irrespective of the files coming in.
-the data sould be read from the data/input & valid data to be written in data/processed/valid & data/processed/error after the process in done.
-dataProcessor.py is the driver file for the entire process with functions define for each step with professional comments for my understand.
-config folder carries the configuration of the source to target mapping

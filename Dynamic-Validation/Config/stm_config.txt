@@ -1,0 +1,8 @@
+source_file_name,taget_table_name,source_col_Name,source_col_type,source_col_length
+emp.txt,emp,empid,int,
+emp.txt,emp,ename,string,500
+emp.txt,emp,sal,float
+emp.txt,emp,addr,string,2000
+emp.txt,emp,dept,int,
+dept.txt,dept,deptid,int
+dept.txt,dept,dname,string,500

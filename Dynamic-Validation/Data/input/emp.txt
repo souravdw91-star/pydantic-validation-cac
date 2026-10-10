@@ -1,0 +1,5 @@
+empid,ename,sal,addr,dept
+1,sourav,100,blr,3
+2,nayak,203.5,ctc,2
+a,skd,300,bbsr,1
+3,sakal,300,bbsr,1

@@ -6,7 +6,7 @@ class Product(BaseModel):
     id: int
     name: str
     price: float
-    in_stock: bool
+    in_stock: bool = True
 
 product = {'id':1,'name':'sourav','price':102.3,'in_stock':True}
 product = Product(**product)

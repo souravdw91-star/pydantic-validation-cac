@@ -1,4 +1,0 @@
-deptid,dname
-1,sales
-2,marketing
-3,finance
